@@ -1,0 +1,11 @@
+{
+  "name": "am-barcode-app",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "dev"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
