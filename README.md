@@ -1,4 +1,6 @@
 # generator-ionic-es-6-scss [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreymaznyak/generator-ionic-es-6-scss.svg)](https://greenkeeper.io/)
 > ionic + gulp + babel es6 etc...
 
 ## Installation
